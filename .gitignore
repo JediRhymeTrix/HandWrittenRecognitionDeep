@@ -1,0 +1,6 @@
+# editor junk
+.vscode/
+
+# python junk
+*.pyc
+__pycache__/
