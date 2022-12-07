@@ -1,6 +1,13 @@
+# OS junk
+.DS_Store
+
 # editor junk
 .vscode/
 
 # python junk
 *.pyc
 __pycache__/
+
+# jupyter junk
+.ipynb_checkpoints/
+
